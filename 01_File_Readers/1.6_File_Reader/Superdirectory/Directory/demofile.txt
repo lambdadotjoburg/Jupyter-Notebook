@@ -1,0 +1,1 @@
+This is a demo file to demonstrate the open() and read() function in Python within the same directory!!!
